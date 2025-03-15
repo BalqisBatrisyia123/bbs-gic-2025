@@ -1,0 +1,5 @@
+# Ask the user for their favorite astronaut
+astronaut = input("Who’s your favourite astronaut? ")
+
+# Print the output message
+print(f"Your favourite astronaut is {astronaut}.")
